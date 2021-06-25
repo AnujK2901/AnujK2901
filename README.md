@@ -32,8 +32,8 @@ Questions | My Answer
 ### 📈 Stats
 👦🏽 | 👍🏼
 :---: | :---: 
-[![Anuj Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AnujK2901&count_private=true&theme=blue-green&showicons=true)]() | [![Anuj Kumar's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujK2901&langs_count=5&theme=blue-green&count_private=true&showicons=true)]()
-[![Anuj Kumar's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujK2901&theme=blue-green)](https://github.com/AnujK2901/github-readme-streak-stats) | <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
+[![Anuj Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AnujK2901&count_private=true&theme=buefy&showicons=true)](https://github.com/AnujK2901/) | [![Anuj Kumar's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnujK2901&langs_count=5&theme=buefy&count_private=true&showicons=true&layout=compact)](https://github.com/AnujK2901/)
+[![Anuj Kumar's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AnujK2901&theme=buefy)](https://github.com/AnujK2901/) | <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
 
 
 ### 🤓 About Me, But In Code
