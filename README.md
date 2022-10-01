@@ -7,11 +7,11 @@
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe xd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/> <img alt="Microsoft Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
 ### 😇 Summary
-- 🔭 I’m currently working on two projects: A JVM Programming Language & NLP Summarization Project.
-- 🌱 I’m currently learning Advanced Data Structures such as Re**Trie**val, **B-Trees**.
-- 👯 I’m looking to collaborate on any project, but I am more interested in system-level project.
-- 💬 Feel free to ask me about Android, C, and C++.
-- 🏢 If you are recruiter looking up for my profile, I am willing to work at your company.
+- 🔭 I’m currently working for Infosys, and I have been part of 3 client projects as of now.
+- 🌱 I’m currently learning more on Google Cloud Platform, and Advanced Bash Scripting.
+- 👯 I’m looking to collaborate on open-source projects, but I must feel aligned with the objectives of the project first.
+- 💬 Feel free to ask me about Python, Android, SQL, Linux and GCP.
+- 🏢 If you are recruiter looking up my profile, I am interested to work at your organization.
 
 ### 📫 How to reach me:
 <p>
